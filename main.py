@@ -2,6 +2,7 @@ from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 import folium
 import time
+import doctest
 geolocator = Nominatim(user_agent="app")
 
 
@@ -146,26 +147,34 @@ def find_nearest(year, curent_cord):
     '''
     (int, tuple) -> list
     return list of nearest cordinates
+    >>> find_nearest(2, (24,24))
+    'no films'
     '''
-    rez = []
-    p1 = '/home/bogdan/Documents/1yr_2sm_lab/lab_2/'
-    title = p1 + 'lab_2_t2/locations_years/' + \
-        str(year) + '.txt'
-    file = open(title)
-    for line in file:
-        line = line.strip().split('\t')
-        rez.append(
-            (line[0], (float(line[1].split()[0]), float(line[1].split()[1]))))
-    rez.sort(key=lambda x: geodesic(x[1], curent_cord).miles)
-    if len(rez) < 10:
-        return rez
-    else:
-        return rez[0:10]
+    try:
+        rez = []
+        p1 = '/home/bogdan/Documents/1yr_2sm_lab/lab_2/'
+        title = p1 + 'lab_2_t2/locations_years/' + \
+            str(year) + '.txt'
+        file = open(title)
+        for line in file:
+            line = line.strip().split('\t')
+            p1 = line[1].split()
+            rez.append(
+                (line[0], (float(p1[0]), float(p1[1]))))
+        rez.sort(key=lambda x: geodesic(x[1], curent_cord).miles)
+        if len(rez) < 10:
+            return rez
+        else:
+            return rez[0:10]
+    except:
+        return 'no films'
 
 
 if __name__ == '__main__':
     try:
+        doctest.testmod()
         data = read_data()
         get_map(data[0], data[1][0], data[1][1])
     except:
         print('No films')
+
