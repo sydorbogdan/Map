@@ -1,0 +1,65 @@
+"2nd House" 	51.511321949999996 -0.13369862252741166
+"2nd House" 	54.7023545 -3.2765753
+"7 of 1" 	51.546055800000005 -0.2537791389340719
+"7 of 1" 	51.546055800000005 -0.2537791389340719
+"7 of 1" 	51.7034478 -3.3105713
+"8 x 1 in Noten" 	51.0834196 10.4234469
+"8 x 1 in Noten" 	52.464601200000004 13.410424111089968
+"8 x 1 in Noten" 	53.585338899999996 10.12696066011979
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adam\'s Rib" 	34.0211224 -118.3964665
+"Adivine mi chamba" 	19.4326296 -99.1331785
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como usted" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Alguien como vos" 	-34.9964963 -64.9672817
+"Almorfando con La Chona" 	-34.9964963 -64.9672817
+"Almorfando con La Chona" 	-34.9964963 -64.9672817
+"Almorfando con La Chona" 	-34.9964963 -64.9672817
+"Almorfando con La Chona" 	-34.9964963 -64.9672817
+"Amaras a tu projimo" 	19.4326296 -99.1331785
+"An American Family" 	40.774309349999996 -73.9708367973161
+"An American Family" 	40.7127281 -74.0060152
+"An American Family" 	40.7127281 -74.0060152
+"An American Family" 	48.8566969 2.3514616
+"An American Family" 	34.4221319 -119.7026673
+"An American Family" 	36.4072377 -105.5732847

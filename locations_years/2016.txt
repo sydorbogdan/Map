@@ -1,0 +1,680 @@
+"#ActorsLife" 	40.7127281 -74.0060152
+"#Fuga" 	-22.9997404 -43.3659929
+"#KillTorrey" 	34.1816482 -118.3258554
+"#LoveMyRoomie" 	40.7127281 -74.0060152
+"#LoveMyRoomie" 	40.6501038 -73.9495823
+"#MyCurrentSituation: Atlanta" 	35.1490215 -90.0516285
+"#SmurTv" 	37.270973 -79.9414313
+"#SmurTv" 	35.2270869 -80.8431268
+"#SmurTv" 	33.7490987 -84.3901849
+"#SpongeyLeaks" 	34.2345615 -118.5369316
+"#SpongeyLeaks" 	34.2345615 -118.5369316
+"#VanLifeAttila" 	61.0666922 -107.9917071
+"#VanLifeAttila" 	36.7014631 -118.7559974
+"#VanLifeAttila" 	51.0 10.0
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.0626187 -121.8747797
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.0626187 -121.8747797
+"#VanLifeAttila" 	49.2433804 -122.9725459
+"#VanLifeAttila" 	49.2842958 -122.793281
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	52.9794279 -122.4936273
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	49.3207133 -123.0737831
+"#VanLifeAttila" 	49.3207133 -123.0737831
+"#VanLifeAttila" 	49.3207133 -123.0737831
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	52.9794279 -122.4936273
+"#VanLifeAttila" 	49.889326 -119.498291
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	49.2842958 -122.793281
+"#VanLifeAttila" 	49.2842958 -122.793281
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	49.163168 -123.137414
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	53.0626187 -121.8747797
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.068471 -121.5153039254653
+"#VanLifeAttila" 	50.8367991 -118.9826386
+"#VanLifeAttila" 	51.0534234 -114.0625892
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	49.3799438 -121.4413515
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	50.8367991 -118.9826386
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.068471 -121.5153039254653
+"#VanLifeAttila" 	49.2433804 -122.9725459
+"#VanLifeAttila" 	49.3207133 -123.0737831
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	49.3019112 -123.14154052837662
+"#VanLifeAttila" 	55.001251 -115.002136
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	47.48138955 19.14607278448202
+"#VanLifeAttila" 	47.48138955 19.14607278448202
+"#VanLifeAttila" 	53.0626187 -121.8747797
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	49.2842958 -122.793281
+"#VanLifeAttila" 	49.3207133 -123.0737831
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.0402309 -121.718755
+"#VanLifeAttila" 	52.9794279 -122.4936273
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.1173414 -121.49901337494916
+"#VanLifeAttila" 	53.068471 -121.5153039254653
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	52.9794279 -122.4936273
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	52.9794279 -122.4936273
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.1044428 -121.5723679
+"#VanLifeAttila" 	53.068471 -121.5153039254653
+"#VanLifeAttila" 	53.0626187 -121.8747797
+"#VanLifeAttila" 	49.8700939 -121.4416621
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	53.0666687 -121.5166749
+"#VanLifeAttila" 	61.0666922 -107.9917071
+"#VanLifeAttila" 	49.2608724 -123.1139529
+"#VanLifeAttila" 	53.0626187 -121.8747797
+"#VanLifeAttila" 	43.653963 -79.387207
+"#VanLifeAttila" 	51.1777781 -115.5682504
+"#VanLifeAttila" 	49.8955367 -97.1384584
+"#VanLifeAttila" 	49.163168 -123.137414
+"11.22.63" 	43.0138142 -79.2024786
+"11.22.63" 	43.2855122 -80.4507012
+"11.22.63" 	43.7492988 -79.462248
+"11.22.63" 	43.255205 -79.868202
+"11.22.63" 	43.975028 -78.616447
+"11.22.63" 	32.7762719 -96.7968559
+"11.22.63" 	43.546557 -80.249977
+"11.22.63" 	32.7762719 -96.7968559
+"11.22.63" 	61.0666922 -107.9917071
+"11.22.63" 	39.7837304 -100.4458825
+"11.22.63" 	43.968821 -78.6137837
+"11.22.63" 	43.546557 -80.249977
+"11.22.63" 	43.2585525 -79.8423487
+"11.22.63" 	42.904136 -79.617233
+"11.22.63" 	43.546557 -80.249977
+"11.22.63" 	43.546557 -80.249977
+"11.22.63" 	43.255205 -79.868202
+"11.22.63" 	39.7837304 -100.4458825
+"11.22.63" 	43.9717503 -78.7469382
+"11.22.63" 	43.9736944 -78.7836962
+"11.22.63" 	43.255205 -79.868202
+"11.22.63" 	43.2855122 -80.4507012
+"11.22.63" 	32.7762719 -96.7968559
+"12 Steps to Multimedia Success" 	34.0536909 -118.2427666
+"12:07" 	33.945505 -118.366707
+"13 Stories TV Originals" 	34.0536909 -118.2427666
+"14 Keys" 	46.49272 -80.991211
+"16 and Awesome" 	34.0536909 -118.2427666
+"19.43" 	49.8941708 2.2956951
+"19.43" 	49.8390337 2.1633769
+"19.43" 	50.0118385 2.1967768
+"19.43" 	49.4300997 2.0823355
+"19.43" 	46.603354 1.8883335
+"1916" 	22.3511148 78.6677428
+"1916" 	39.7837304 -100.4458825
+"1916" 	46.603354 1.8883335
+"1916" 	51.0834196 10.4234469
+"1916" 	54.7023545 -3.2765753
+"1916" 	50.6402809 4.6667145
+"1916" 	52.865196 -7.9794599
+"1Life" 	51.5073219 -0.1276474
+"2 Femmes � Hollywood" 	34.0536909 -118.2427666
+"2016 IHeartRadio Music Festival" 	36.1672559 -115.1485163
+"2016 Presidential Debates" 	40.7063185 -73.618684
+"2016 Presidential Debates" 	38.634807 -90.258941
+"2016 Presidential Debates" 	37.3024713 -78.3923813
+"2016 Stanley Cup Finals" 	40.439621700000004 -79.98950569382804
+"2016 Stanley Cup Finals" 	40.439621700000004 -79.98950569382804
+"2016 Stanley Cup Finals" 	37.3361905 -121.8905833
+"2016 Stanley Cup Finals" 	37.3361905 -121.8905833
+"2016 Stanley Cup Finals" 	40.439621700000004 -79.98950569382804
+"2016 Stanley Cup Finals" 	39.7837304 -100.4458825
+"2016 Under-17 Women\'s NTC Invitational" 	33.8322043 -118.2517547
+"2016 World Series" 	41.9481283 -87.65636056216721
+"2016 World Series" 	41.4960144 -81.6842002221565
+"2016 World Series" 	41.4960144 -81.6842002221565
+"2016 World Series" 	41.4960144 -81.6842002221565
+"2016 World Series" 	41.8755616 -87.6244212
+"2016 World Series" 	41.8755616 -87.6244212
+"2016 World Series" 	41.8755616 -87.6244212
+"2016 World Series" 	41.4960144 -81.6842002221565
+"2016 World Series" 	41.4960144 -81.6842002221565
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	2.8894434 -73.783892
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"2091" 	2.8894434 -73.783892
+"2091" 	3.2333462 -75.1690534
+"24 Hours of Food with Michael Bonacini" 	45.421106 -75.690308
+"24 Hours of Food with Michael Bonacini" 	43.653963 -79.387207
+"24 Hours of Food with Michael Bonacini" 	61.0666922 -107.9917071
+"24: Legacy" 	33.5870558 -84.5424299
+"24K Orange" 	33.7500378 -117.8704931
+"24K Orange" 	33.5225261 -117.7075526
+"24K Orange" 	33.6170092 -117.9294401
+"24K Orange" 	33.7494951 -117.8732213
+"24K Orange" 	33.7494951 -117.8732213
+"24K Orange" 	33.5016932 -117.6625509
+"24h Danger" 	14.8971921 100.83273
+"24h Danger" 	52.4760892 -71.8258668
+"24h Danger" 	19.1399952 -72.3570972
+"24h Danger" 	46.603354 1.8883335
+"24h Danger" 	19.4326296 -99.1331785
+"24h Danger" 	36.5748441 139.2394179
+"24h Danger" 	39.7837304 -100.4458825
+"24h Danger" 	-10.3333333 -53.2
+"24h Danger" 	45.8133113 14.4808369
+"24h Danger" 	33.7680065 66.2385139
+"25 & Counting" 	34.0463986 -118.448135
+"25 & Counting" 	34.0463986 -118.448135
+"3%" 	-10.3333333 -53.2
+"30 minutos con el sagrado corazon de jesus" 	39.284749399999995 -76.62047463969989
+"30" 	39.4900756 -74.53401951500001
+"3riple B" 	34.0561207 -118.4306347
+"4 Point Line" 	40.8466508 -73.8785937
+"4 Point Line" 	40.6501038 -73.9495823
+"5 Minutitos M�s" 	2.8894434 -73.783892
+"5 Minutitos M�s" 	2.8894434 -73.783892
+"50 Ways to Kill Your Mommy" 	39.7837304 -100.4458825
+"50 Ways to Kill Your Mommy" 	21.1617854 -86.8510468
+"50 Ways to Kill Your Mommy" 	67.69291045 26.728204479201416
+"50 Ways to Kill Your Mommy" 	41.3828939 2.1774322
+"50 Ways to Kill Your Mommy" 	34.0222263 -118.4051088
+"50 Ways to Kill Your Mommy" 	-28.8166236 24.991639
+"50 Ways to Kill Your Mommy" 	56.8 -5.0
+"50 Ways to Kill Your Mommy" 	31.0894916 -3.9656853
+"50 Yard Game Films" 	39.9527237 -75.1635262
+"50 Yard Game Films" 	40.2170575 -74.7429463
+"50 Yard Game Films" 	39.284749399999995 -76.62047463969989
+"50 Yard Game Films" 	38.8948932 -77.0365529
+"50 Yard Game Films" 	41.5051613 -81.6934446
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"60 Days In" 	39.7837304 -100.4458825
+"64/8" 	33.7490987 -84.3901849
+"64/8" 	39.7837304 -100.4458825
+"700 Club Asia the Margareth Binalla Story" 	12.7503486 122.7312101
+"8 Steps to Buying" 	34.0536909 -118.2427666
+"80 e Tal" 	-22.9839557 -43.2022163
+"80 e Tal" 	-10.3333333 -53.2
+"9 Days with Cambria" 	43.653963 -79.387207
+"9-1-1 Encounters" 	34.0536909 -118.2427666
+"999: Killer on the Line?" 	52.6651733 0.1606824
+"A Day in L.A." 	34.0536909 -118.2427666
+"A Day in L.A." 	34.0536909 -118.2427666
+"A Day in the Life Of" 	40.7127281 -74.0060152
+"A Day in the Life" 	34.0536909 -118.2427666
+"A Drivers\' Dream" 	50.4164846 -118.7147708
+"A Drivers\' Dream" 	49.2608724 -123.1139529
+"A F*cking Web Series" 	40.7127281 -74.0060152
+"A Fist Within Four Walls" 	22.2793278 114.1628131
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A Garota da Moto" 	-10.3333333 -53.2
+"A History of Trouble with Women" 	36.7014631 -118.7559974
+"A Impostora" 	-19.302233 34.9144977
+"A Impostora" 	-26.02895025 32.54964057496335
+"A Impostora" 	-25.966213 32.56745
+"A Impostora" 	-25.9671487 32.57380415
+"A Kings Life" 	40.7127281 -74.0060152
+"A Little Advice" 	34.0250724 -118.4965129
+"A Little Lost: Web Series" 	34.0536909 -118.2427666
+"A Little Off" 	36.7014631 -118.7559974
+"A Little of Your Time with Quinn Marcus" 	34.0536909 -118.2427666
+"A Matter of Opinion" 	34.0536909 -118.2427666
+"A Mission" 	30.4112904 -88.8279165
+"A Place Among the Undead" 	34.0536909 -118.2427666
+"A Place Among the Undead" 	51.5073219 -0.1276474
+"A Place Among the Undead" 	29.9499323 -90.0701156
+"A Place Among the Undead" 	34.3916641 -118.542586
+"AMU Journal" 	27.87698975 78.13729027600994
+"AOK" 	34.0536909 -118.2427666
+"APB" 	41.8755616 -87.6244212
+"Abandoned Tracks" 	-33.8931044 151.2040292
+"Abandoned Tracks" 	-33.88141555 151.2074611285057
+"Abandoned Tracks" 	-33.8793443 151.20937979519775
+"Abandoned Tracks" 	-33.8716231 151.21150983957932
+"Abandoned Tracks" 	-33.8536692 151.2133527
+"Abandoned Tracks" 	-33.8679574 151.210047
+"Abandoned Tracks" 	-33.8536692 151.2133527
+"Abandoned Tracks" 	-34.1908519 150.9822187
+"Abandoned Tracks" 	-34.1396 150.9132
+"Abandoned Tracks" 	-32.2047681 148.6162376
+"Abandoned Tracks" 	-24.7761086 134.755
+"Abandoned Tracks" 	-24.7761086 134.755
+"Abandoned" 	33.312137699999994 -115.77738410537086
+"Abandoned" 	33.296668499999996 -115.95853910224128
+"Abandoned" 	36.42402715 -117.92691635137999
+"Abandoned" 	36.482546 -117.86575631459041
+"Abandoned" 	36.5595325 -117.4074712
+"Abandoned" 	41.5051613 -81.6934446
+"Abandoned" 	41.434424 -81.525492
+"Abandoned" 	41.0512005 -81.5820976
+"Abandoned" 	41.5963715 -81.5037953
+"Abandoned" 	47.0127158 -52.9812831
+"Abandoned" 	47.61821835 -58.689227037298586
+"Abandoned" 	49.12120935 -56.69629621274099
+"Abandoned" 	47.6813746 -58.3966862
+"Abandoned" 	49.12120935 -56.69629621274099
+"Abandoned" 	47.561701 -52.715149
+"Abandoned" 	49.12120935 -56.69629621274099
+"Abandoned" 	49.12120935 -56.69629621274099
+"Abandoned" 	49.12120935 -56.69629621274099
+"Abandoned" 	46.9009701 -119.6305912
+"Abandoned" 	47.0257475 -123.47465514234261
+"Abandoned" 	39.7837304 -100.4458825
+"Abandoned" 	46.187885 -123.831256
+"Abandoned" 	45.993246 -123.920213
+"Abandoned" 	38.6268039 -90.1994097
+"Abandoned" 	38.6268039 -90.1994097
+"Abandoned" 	38.6268039 -90.1994097
+"Abandoned" 	38.6268039 -90.1994097
+"Abandoned" 	39.7837304 -100.4458825
+"Abece TV" 	41.0766019 29.052495
+"Abel\'s Sister" 	40.1776121 44.5125849
+"Aber Bergen" 	60.4660419 6.125592
+"About Him" 	33.7490987 -84.3901849
+"About That Life" 	40.7127281 -74.0060152
+"About the Business" 	34.0536909 -118.2427666
+"Ac\'tiv-ist" 	42.3803676 -72.523143
+"Across" 	45.9896587 -94.6113288
+"Across" 	48.8566969 2.3514616
+"Action Super Squad: Short Shots!" 	41.6883214 -93.7910575
+"Action Super Squad: Short Shots!" 	41.6883214 -93.7910575
+"Action Super Squad: Short Shots!" 	41.5910641 -93.6037149
+"Action Super Squad: Short Shots!" 	41.5910641 -93.6037149
+"Action Super Squad: Short Shots!" 	41.6883214 -93.7910575
+"Action Super Squad: Short Shots!" 	41.6883214 -93.7910575
+"Action Super Squad: Short Shots!" 	41.5910641 -93.6037149
+"Action Super Squad: Short Shots!" 	41.5910641 -93.6037149
+"Actors Anonymous" 	29.7589382 -95.3676974
+"Actors Vs" 	-33.8536692 151.2133527
+"Adam Sessler & the Interesting People" 	34.0536909 -118.2427666
+"Adam sucht Eva - Promis im Paradies" 	-16.03442485 -146.0490931059517
+"Adoptable" 	34.0536909 -118.2427666
+"Adventures in My Own Backyard" 	33.806460238285055 -117.88410906044076
+"Adventures in My Own Backyard" 	33.560832 -117.2106564
+"Affordable NYC" 	40.6501038 -73.9495823
+"Afrimericans" 	40.7127281 -74.0060152
+"After the 80" 	-17.9316654 144.5233307
+"After the Bid: Houston" 	29.7589382 -95.3676974
+"After the End" 	29.2733964 47.4979476
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.169126 -122.5793628
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.169126 -122.5793628
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.2608724 -123.1139529
+"Aftermath" 	49.106471850000005 -122.5501311568147
+"Against the Grain" 	31.549333 -97.1466695
+"Agar.io" 	34.0536909 -118.2427666
+"Agatha Raisin" 	51.25 -1.916667
+"Agatha Raisin" 	51.4538022 -2.5972985
+"Agatha Raisin" 	51.4543538 -2.6242826
+"Agatha Raisin" 	51.25 -1.916667
+"Agatha Raisin" 	52.083333 -2.75
+"Agoro the Phobic Monster" 	-33.8536692 151.2133527
+"Ahhh Zombies" 	33.1181748 -87.1249954
+"Ahhh Zombies" 	33.1006746 -86.8641558
+"Al Most Coast to Coast: Web-Series" 	40.7127281 -74.0060152
+"Al Most Coast to Coast: Web-Series" 	40.8466508 -73.8785937
+"Al Most Coast to Coast: Web-Series" 	40.7564278 -73.9803554
+"Al Most Coast to Coast: Web-Series" 	40.7127281 -74.0060152
+"Al otro lado" 	39.3262345 -4.8380649
+"Al otro lado" 	31.1728205 -7.3362482
+"Al otro lado" 	39.7837304 -100.4458825
+"Al otro lado" 	19.4326296 -99.1331785
+"Al otro lado" 	-28.8166236 24.991639
+"Al otro lado" 	-18.4554963 29.7468414
+"Al otro lado" 	24.4768783 90.2932426
+"Al otro lado" 	22.3511148 78.6677428
+"Al sur del tiempo 	39.3262345 -4.8380649
+"Al sur del tiempo" 	39.3262345 -4.8380649
+"Aladin & Alakadam" 	-6.1753942 106.827183
+"Alan Carr\'s Happy Hour" 	51.5142957 -0.1446751
+"Alaska Aircrash Investigations" 	64.4459613 -149.680909
+"Albanian Style" 	41.000028 19.9999619
+"Alberto Casiraghy: Poeta della stampa" 	45.675678 9.391148
+"Alex and Lotus" 	34.0536909 -118.2427666
+"Alexander von Humboldt Proffesur" 	51.0834196 10.4234469
+"Alias L�nnrot" 	61.4980214 23.7603118
+"Alias L�nnrot" 	60.1674098 24.9425769
+"Alias L�nnrot" 	60.9204847 24.6510032
+"Alias L�nnrot" 	61.4980214 23.7603118
+"Alias L�nnrot" 	63.2467777 25.9209164
+"Alias L�nnrot" 	60.1674098 24.9425769
+"Alias L�nnrot" 	60.2241869 24.6603626
+"Alias L�nnrot" 	60.1674098 24.9425769
+"Alias L�nnrot" 	60.1674098 24.9425769
+"Alias L�nnrot" 	60.1674098 24.9425769
+"Alias L�nnrot" 	59.4372155 24.7453688
+"All About Manos" 	34.0536909 -118.2427666
+"All About Manos" 	34.0536909 -118.2427666
+"All Hip Hop with Exodus Swift" 	39.7837304 -100.4458825
+"All Talk with Anika Moa" 	-36.852095 174.7631803
+"All for One" 	43.653963 -79.387207
+"All for One" 	43.653963 -79.387207
+"All in with Cam Newton" 	34.1816482 -118.3258554
+"Alle mod 1" 	55.6867243 12.5700724
+"Alles Lieb	51.7000417 12.674504567623387
+"Almost Midnight" 	-34.9281805 138.5999312
+"Alone Together" 	41.4086874 -75.6621294
+"Alpha-Type" 	43.653963 -79.387207
+"Als de dijken breken" 	52.1062075 4.2752714
+"Als de dijken breken" 	52.3727598 4.8936041
+"Als de dijken breken" 	51.9278469 4.488595428701715
+"Alta Tensione" 	42.6384261 12.674297
+"Ambitions" 	33.7490987 -84.3901849
+"America Decides" 	35.7803977 -78.6390989
+"America Decides" 	38.744947 -77.48244422524272
+"America Decides" 	38.8948932 -77.0365529
+"America Decides" 	40.7127281 -74.0060152
+"America\'s Ghosts Flaunted" 	41.3199145 -111.9939299
+"America\'s Ghosts Flaunted" 	40.5246711 -111.8638226
+"America\'s Ghosts Flaunted" 	40.7596198 -111.8867975
+"America\'s Ghosts Flaunted" 	40.9804423 -111.8874688
+"America\'s Ghosts Flaunted" 	40.7596198 -111.8867975
+"American Arm Wrestlers" 	40.0796606 -89.4337288
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	33.8358492 -118.3406288
+"American Crime Story" 	34.08693675 -118.411605
+"American Crime Story" 	34.04819263376255 -118.4707208201633
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	34.03261072447709 -118.40242116744938
+"American Crime Story" 	34.0696501 -118.3963062
+"American Crime Story" 	39.7837304 -100.4458825
+"American Crime Story" 	34.14042111513991 -118.48842028189598
+"American Crime Story" 	34.093042 -118.12706
+"American Crime Story" 	34.2175042 -118.3703576
+"American Crime Story" 	34.08280968228635 -118.40195327674317
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	34.05867885 -118.41657039399803
+"American Crime Story" 	34.1714436 -118.5429789
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	34.0923014 -118.3692894
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	34.100968050000006 -118.34181478202902
+"American Crime Story" 	39.7837304 -100.4458825
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	39.7837304 -100.4458825
+"American Crime Story" 	34.0536909 -118.2427666
+"American Crime Story" 	34.093214 -118.3196124
+"American Doers" 	40.7127281 -74.0060152
+"American Doers" 	39.7348381 -104.9653271
+"American Doers" 	43.1700264 -107.5685348
+"American Doers" 	42.3315509 -83.0466403
+"American Gothic" 	43.653963 -79.387207
+"American Gothic" 	43.653963 -79.387207
+"American Gothic" 	43.1179352 -79.202235
+"American Gothic" 	43.4706925 -79.915066346497
+"American Gothic" 	42.3602534 -71.0582912
+"American Gothic" 	43.91768 -78.862953
+"American Grit" 	39.7837304 -100.4458825
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.1412926 -118.3584364
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	39.7837304 -100.4458825
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.1412926 -118.3584364
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.1412926 -118.3584364
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	39.7837304 -100.4458825
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.0536909 -118.2427666
+"American Housewife" 	34.1412926 -118.3584364
+"American Housewife" 	34.0536909 -118.2427666
+"American Murder Song" 	34.0536909 -118.2427666
+"American Supergroup" 	36.1622296 -86.7743531
+"American Tarzan" 	19.0974031 -70.3028026
+"American Tarzan" 	19.0974031 -70.3028026
+"American Travelers" 	21.2371906 -86.7350001
+"American Travelers" 	21.2160437 -157.975203
+"American Travelers" 	61.0666922 -107.9917071
+"American Travelers" 	17.1508813 -62.5852896007
+"American Travelers" 	19.2648113 -69.4930017
+"American Travelers" 	19.3298691 -81.17122907994889
+"Among the Dead" 	27.9094665 -82.7873244
+"Amor Maior" 	40.0332629 -7.8896263
+"Amor Maior" 	38.7122871 -9.1298579
+"Amores Perros" 	-31.7613365 -71.3187697
+"Amy Street" 	-41.5000831 172.8344077
+"Anabel\'s First Date: Web Series" 	34.0536909 -118.2427666
+"Analog in Vienna" 	48.2083537 16.3725042
+"Ancient Assassins" 	54.7023545 -3.2765753
+"Anders Dark" 	42.3315509 -83.0466403
+"Andrew Zimmern\'s Driven by Food" 	52.5170365 13.3888599
+"Andrew Zimmern\'s Driven by Food" 	17.38878595 78.46106473453146
+"Andrew Zimmern\'s Driven by Food" 	-22.9110137 -43.2093727
+"Andrew\'s Games" 	36.7014631 -118.7559974
+"Andy\'s Prehistoric Adventures" 	51.5073219 -0.1276474
+"Andy\'s Prehistoric Adventures" 	54.7023545 -3.2765753
+"Anecdote" 	45.421106 -75.690308
+"Angelino Heights" 	34.0536909 -118.2427666
+"Angels from Hell" 	54.7023545 -3.2765753
+"Angie Tribeca" 	34.0536909 -118.2427666
+"Angie Tribeca" 	34.3916641 -118.542586
+"Angie Tribeca" 	39.7837304 -100.4458825
+"Animal ER" 	29.7589382 -95.3676974
+"Animal Kingdom" 	34.0536909 -118.2427666
+"Animal Kingdom" 	33.1958696 -117.3794834
+"Animal Kingdom" 	34.1816482 -118.3258554
+"Animal Kingdom" 	34.3916641 -118.542586
+"Animal Kingdom" 	34.3916641 -118.542586
+"Animal Kingdom" 	34.3916641 -118.542586
+"Animal Kingdom" 	33.1958696 -117.3794834
+"Animal Kingdom" 	34.3916641 -118.542586
+"Animal Work" 	40.7127281 -74.0060152
+"Animalia" 	40.4167047 -3.7035825
+"Animaniac" 	38.9953683 21.9877132
+"Anne" 	41.0766019 29.052495
+"Anomalia" 	46.8030044 7.1512891
+"Anter Pult e Cassabanch" 	42.6384261 12.674297

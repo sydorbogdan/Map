@@ -1,0 +1,937 @@
+"$2 Bill" 	34.0536909 -118.2427666
+"$2 Bill" 	34.0536909 -118.2427666
+"$2 Bill" 	32.7174209 -117.1627714
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"099 Central" 	-34.9964963 -64.9672817
+"100 Hours" 	-41.2958474 174.7388675
+"100% Greve" 	55.670249 10.3333283
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9632342 -54.9439981
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"1000 millones" 	-34.9964963 -64.9672817
+"101" 	31.5313113 34.8667654
+"101" 	31.778345 35.2250786
+"101" 	31.7764783 35.20537826857806
+"2002 FIFA World Cup" 	36.5581914 127.9408564
+"2002 FIFA World Cup" 	36.5581914 127.9408564
+"2002 FIFA World Cup" 	36.36525335 127.32510742291791
+"2002 FIFA World Cup" 	36.5581914 127.9408564
+"2002 FIFA World Cup" 	37.4358254 126.69174668586189
+"2002 FIFA World Cup" 	36.5748441 139.2394179
+"2002 FIFA World Cup" 	33.2462695 126.50910713230071
+"2002 FIFA World Cup" 	35.867807400000004 127.06458906981494
+"2002 FIFA World Cup" 	35.9920049 140.64036786659403
+"2002 FIFA World Cup" 	34.656696600000004 135.16815673063385
+"2002 FIFA World Cup" 	38.3353656 140.95038460836236
+"2002 FIFA World Cup" 	35.5330059 129.2585538997232
+"2002 FIFA World Cup" 	34.61413695 135.51851748633447
+"2002 FIFA World Cup" 	35.5099882 139.60638254387774
+"2002 FIFA World Cup" 	33.2007159 131.65749200362785
+"2002 FIFA World Cup" 	35.9030742 139.7176057093192
+"2002 FIFA World Cup" 	43.01516255 141.4096924939122
+"2002 FIFA World Cup" 	37.5646492 126.9190996
+"2002 FIFA World Cup" 	34.74349185 137.97075786160497
+"2002 FIFA World Cup" 	37.2864084 127.03680502041217
+"2030 CE" 	49.8955367 -97.1384584
+"2030 CE" 	49.8955367 -97.1384584
+"20tantos" 	39.8560679 -4.0239568
+"20tantos" 	39.3262345 -4.8380649
+"21st Century War" 	33.7680065 66.2385139
+"21st Century War" 	8.3676771 49.083416
+"21st Century War" 	14.5844444 29.4917691
+"21st Century War" 	-2.4833826 117.8902853
+"24/7: Airport" 	40.7127281 -74.0060152
+"3 bogatyrya" 	55.4792046 37.3273304
+"3K Check In" 	42.2885656 18.8419505
+"5th Gear" 	-28.8166236 24.991639
+"5th Gear" 	52.215933 19.134422
+"5th Gear" 	45.9852129 24.6859225
+"5th Gear" 	52.7954791 -0.5402402866174321
+"5th Gear" 	52.2928116 -3.73893
+"5th Gear" 	52.25 -0.833333
+"5th Gear" 	51.25 -1.916667
+"5th Gear" 	52.25 -0.833333
+"5th Gear" 	52.25 -0.833333
+"5th Gear" 	51.25 -1.916667
+"5th Gear" 	52.25 -0.833333
+"5th Gear" 	52.2337172 21.07141112883227
+"5th Gear" 	52.215933 19.134422
+"5th Gear" 	51.25 -1.916667
+"5th Gear" 	51.25 -1.916667
+"5th Gear" 	39.3262345 -4.8380649
+"60 Minutes" 	42.3602534 -71.0582912
+"6ixth Sense with Colin Fry" 	54.7023545 -3.2765753
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.0536909 -118.2427666
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"8 Simple Rules... for Dating My Teenage Daughter" 	34.1816482 -118.3258554
+"A Cook\'s Tour" 	35.6828387 139.7594549
+"A Cook\'s Tour" 	-12.9822499 -38.4812772
+"A Cook\'s Tour" 	-10.3333333 -53.2
+"A Cook\'s Tour" 	-10.3333333 -53.2
+"A Cook\'s Tour" 	-10.3333333 -53.2
+"A Cook\'s Tour" 	-12.9739859 -38.5103773
+"A Cook\'s Tour" 	-12.9126074 -38.4944169
+"A Cook\'s Tour" 	-12.9402697 -38.3403835
+"A Cook\'s Tour" 	-10.3333333 -53.2
+"A Cook\'s Tour" 	-10.3333333 -53.2
+"A Cook\'s Tour" 	51.5073219 -0.1276474
+"A Cook\'s Tour" 	51.519513950000004 -0.10278787788982097
+"A Cook\'s Tour" 	51.5073219 -0.1276474
+"A Cook\'s Tour" 	51.5073219 -0.1276474
+"A Cook\'s Tour" 	51.520480899999995 -0.1012748389057864
+"A Cook\'s Tour" 	51.4853491 -0.1621219
+"A Cook\'s Tour" 	35.6828387 139.7594549
+"A Cook\'s Tour" 	36.5748441 139.2394179
+"A Cook\'s Tour" 	36.5748441 139.2394179
+"A Cook\'s Tour" 	46.603354 1.8883335
+"A Cook\'s Tour" 	44.6539428 -1.1755714
+"A Cook\'s Tour" 	46.603354 1.8883335
+"A Cook\'s Tour" 	44.6316943 -1.1491319
+"A Cook\'s Tour" 	44.6356573 -1.1415747
+"A Cook\'s Tour" 	44.6316943 -1.1491319
+"A Cook\'s Tour" 	46.603354 1.8883335
+"A Cook\'s Tour" 	44.6316943 -1.1491319
+"A Cook\'s Tour" 	44.6308885 -1.249812
+"A Cook\'s Tour" 	10.6497452 106.76197937344351
+"A Cook\'s Tour" 	10.7745397 106.69918361158545
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	10.7813816 106.6869996
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	10.7758439 106.7017555
+"A Cook\'s Tour" 	41.1494512 -8.6107884
+"A Cook\'s Tour" 	40.0332629 -7.8896263
+"A Cook\'s Tour" 	40.0332629 -7.8896263
+"A Cook\'s Tour" 	40.0332629 -7.8896263
+"A Cook\'s Tour" 	40.0332629 -7.8896263
+"A Cook\'s Tour" 	31.1728205 -7.3362482
+"A Cook\'s Tour" 	31.1728205 -7.3362482
+"A Cook\'s Tour" 	31.1728205 -7.3362482
+"A Cook\'s Tour" 	31.1728205 -7.3362482
+"A Cook\'s Tour" 	35.6828387 139.7594549
+"A Cook\'s Tour" 	35.08992 139.059891
+"A Cook\'s Tour" 	36.5748441 139.2394179
+"A Cook\'s Tour" 	36.5748441 139.2394179
+"A Cook\'s Tour" 	36.5748441 139.2394179
+"A Cook\'s Tour" 	-37.8142176 144.9631608
+"A Cook\'s Tour" 	-37.8142176 144.9631608
+"A Cook\'s Tour" 	-36.0154297 146.0139795
+"A Cook\'s Tour" 	-37.8142176 144.9631608
+"A Cook\'s Tour" 	-37.483466 144.7480489
+"A Cook\'s Tour" 	-37.96738335 144.3660409155256
+"A Cook\'s Tour" 	-37.8203955 145.0025153
+"A Cook\'s Tour" 	13.5066394 104.869423
+"A Cook\'s Tour" 	12.888642449999999 104.02062319226694
+"A Cook\'s Tour" 	12.9256791 103.23171364274523
+"A Cook\'s Tour" 	13.5066394 104.869423
+"A Cook\'s Tour" 	13.5066394 104.869423
+"A Cook\'s Tour" 	13.5066394 104.869423
+"A Cook\'s Tour" 	35.6828387 139.7594549
+"A Cook\'s Tour" 	36.5748441 139.2394179
+"A Cook\'s Tour" 	36.5748441 139.2394179
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	51.4591656 6.986049
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	12.2431693 109.1898675
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	40.7441961 -73.9832046
+"A Cook\'s Tour" 	39.7837304 -100.4458825
+"A Cook\'s Tour" 	40.7100999 -74.0088015
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	59.9606739 30.1586551
+"A Cook\'s Tour" 	13.5066394 104.869423
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	40.7076703 -74.0020534
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	43.3224219 -1.9838889
+"A Cook\'s Tour" 	35.6828387 139.7594549
+"A Cook\'s Tour" 	39.7837304 -100.4458825
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	18.833333 -98.0
+"A Cook\'s Tour" 	12.2431693 109.1898675
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	52.5001698 5.7480821
+"A Cook\'s Tour" 	52.5001698 5.7480821
+"A Cook\'s Tour" 	52.5001698 5.7480821
+"A Cook\'s Tour" 	52.5001698 5.7480821
+"A Cook\'s Tour" 	46.603354 1.8883335
+"A Cook\'s Tour" 	52.5001698 5.7480821
+"A Cook\'s Tour" 	46.603354 1.8883335
+"A Cook\'s Tour" 	21.0294498 105.8544441
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	13.2904027 108.4265113
+"A Cook\'s Tour" 	56.7861112 -4.1140518
+"A Cook\'s Tour" 	55.8609825 -4.2488787
+"A Cook\'s Tour" 	54.7023545 -3.2765753
+"A Cook\'s Tour" 	55.8609825 -4.2488787
+"A Cook\'s Tour" 	55.9533456 -3.1883749
+"A Cook\'s Tour" 	55.9533456 -3.1883749
+"A Cook\'s Tour" 	57.5850133 -3.8681503
+"A Cook\'s Tour" 	54.7023545 -3.2765753
+"A Cook\'s Tour" 	57.5850133 -3.8681503
+"A Cook\'s Tour" 	-22.9110137 -43.2093727
+"A Cook\'s Tour" 	-22.9110137 -43.2093727
+"A Cook\'s Tour" 	-22.9839557 -43.2022163
+"A Cook\'s Tour" 	-22.9110137 -43.2093727
+"A Cook\'s Tour" 	-22.9110137 -43.2093727
+"A Cook\'s Tour" 	-22.8832371 -43.1154552
+"A Cook\'s Tour" 	-22.8832371 -43.1154552
+"A Cook\'s Tour" 	-10.3333333 -53.2
+"A Cook\'s Tour" 	-10.3333333 -53.2
+"A Cook\'s Tour" 	-22.9110137 -43.2093727
+"A Cook\'s Tour" 	-22.9110137 -43.2093727
+"A Cook\'s Tour" 	18.7862518 98.9935495
+"A Cook\'s Tour" 	18.790876 98.988048
+"A Cook\'s Tour" 	14.8971921 100.83273
+"A Cook\'s Tour" 	18.7858382 98.9851584
+"A Cook\'s Tour" 	14.8971921 100.83273
+"A Cook\'s Tour" 	14.8971921 100.83273
+"A Cook\'s Tour" 	18.7852694 99.00000236957962
+"A Cook\'s Tour" 	14.8971921 100.83273
+"A Cook\'s Tour" 	18.790876 98.988048
+"A Cook\'s Tour" 	34.0536909 -118.2427666
+"A Cook\'s Tour" 	34.0536909 -118.2427666
+"A Cook\'s Tour" 	34.08390825 -118.34428334041074
+"A Cook\'s Tour" 	34.0536909 -118.2427666
+"A Cook\'s Tour" 	34.0586164 -118.24560698989389
+"A Cook\'s Tour" 	34.0250724 -118.4965129
+"A Cook\'s Tour" 	33.9452731 -118.300483
+"A Cook\'s Tour" 	34.0650802 -118.3437619
+"A Cook\'s Tour" 	39.7837304 -100.4458825
+"A Cook\'s Tour" 	-31.965 141.4511111
+"A Cook\'s Tour" 	-24.7761086 134.755
+"A Cook\'s Tour" 	-33.8536692 151.2133527
+"A Cook\'s Tour" 	-31.965 141.4511111
+"A Cook\'s Tour" 	-33.8536692 151.2133527
+"A Cook\'s Tour" 	-24.7761086 134.755
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	40.7790423 -73.9540748
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	40.7100999 -74.0088015
+"A Cook\'s Tour" 	42.058436 -70.1786375
+"A Cook\'s Tour" 	42.058436 -70.1786375
+"A Cook\'s Tour" 	41.7459268 -73.9331926
+"A Cook\'s Tour" 	40.7127281 -74.0060152
+"A Cook\'s Tour" 	29.9499323 -90.0701156
+"A Cook\'s Tour" 	29.9499323 -90.0701156
+"A Cook\'s Tour" 	29.9499323 -90.0701156
+"A Cook\'s Tour" 	39.7837304 -100.4458825
+"A Cook\'s Tour" 	39.7837304 -100.4458825
+"A Cook\'s Tour" 	29.9619053 -90.0335969
+"A Cook\'s Tour" 	29.7957633 -90.822871
+"A Cook\'s Tour" 	29.9490708 -90.13221368770718
+"A Cook\'s Tour" 	29.9499323 -90.0701156
+"A Cook\'s Tour" 	29.7957633 -90.822871
+"A Cook\'s Tour" 	18.833333 -98.0
+"A Cook\'s Tour" 	40.7100999 -74.0088015
+"A Cook\'s Tour" 	19.4326296 -99.1331785
+"A Cook\'s Tour" 	19.4326296 -99.1331785
+"A Cook\'s Tour" 	39.3262345 -4.8380649
+"A Cook\'s Tour" 	43.3224219 -1.9838889
+"A Cook\'s Tour" 	43.3224219 -1.9838889
+"A Cook\'s Tour" 	43.3234086 -1.9855242
+"A Cook\'s Tour" 	39.3262345 -4.8380649
+"A Cook\'s Tour" 	39.3262345 -4.8380649
+"A Cook\'s Tour" 	39.3262345 -4.8380649
+"A Cook\'s Tour" 	1.357107 103.8194992
+"A Cook\'s Tour" 	1.3082222 103.8341091
+"A Cook\'s Tour" 	1.3169144 103.8974145
+"A Cook\'s Tour" 	1.3061832 103.85058749683245
+"A Cook\'s Tour" 	1.357107 103.8194992
+"A Cook\'s Tour" 	1.357107 103.8194992
+"A Cook\'s Tour" 	1.357107 103.8194992
+"A Cook\'s Tour" 	59.9606739 30.1586551
+"A Cook\'s Tour" 	59.8354498 30.5614758
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	41.1494512 -8.6107884
+"A Cook\'s Tour" 	40.0332629 -7.8896263
+"A Cook\'s Tour" 	46.603354 1.8883335
+"A Cook\'s Tour" 	44.6603116 -1.1675892
+"A Cook\'s Tour" 	17.0 -96.5
+"A Cook\'s Tour" 	15.666667 -96.490556
+"A Cook\'s Tour" 	13.7542529 100.493087
+"A Cook\'s Tour" 	14.8971921 100.83273
+"A Cook\'s Tour" 	13.7569501 100.5401315
+"A Cook\'s Tour" 	14.8971921 100.83273
+"A Cook\'s Tour" 	1.357107 103.8194992
+"A Cook\'s Tour" 	13.68187665 100.74858027718852
+"A Cook\'s Tour" 	1.357107 103.8194992
+"A Cook\'s Tour" 	29.7589382 -95.3676974
+"A Cook\'s Tour" 	29.7589382 -95.3676974
+"A Cook\'s Tour" 	39.1134562 -94.626497
+"A Cook\'s Tour" 	39.1134562 -94.626497
+"A Cook\'s Tour" 	29.7589382 -95.3676974
+"A Cook\'s Tour" 	35.6729639 -79.0392919
+"A Cook\'s Tour" 	29.9988312 -95.2621553
+"A Cook\'s Tour" 	35.7059114 -77.9175714
+"A Cook\'s Tour" 	35.7059114 -77.9175714
+"A Cook\'s Tour" 	34.988486 -80.3670085
+"A Cook\'s Tour" 	59.9606739 30.1586551
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	64.6863136 97.7453061
+"A Cook\'s Tour" 	59.927306400000006 30.349645491976254
+"A Cook\'s Tour" 	37.7790262 -122.4199061
+"A Cook\'s Tour" 	37.7909693 -122.4209185
+"A Cook\'s Tour" 	37.7790262 -122.4199061
+"A Cook\'s Tour" 	38.4022008 -122.3595063
+"A Cook\'s Tour" 	38.4042648 -122.3647106
+"A Cook\'s Tour" 	44.9772995 -93.2654692
+"A Cook\'s Tour" 	44.8322405 -93.3204872
+"A Cook\'s Tour" 	45.009761 -93.2720091
+"A Cook\'s Tour" 	44.9772995 -93.2654692
+"A Cook\'s Tour" 	44.9772995 -93.2654692
+"A Cook\'s Tour" 	44.8322405 -93.3204872
+"A Cook\'s Tour" 	39.7837304 -100.4458825
+"A Cook\'s Tour" 	44.9772995 -93.2654692
+"A Cook\'s Tour" 	39.7837304 -100.4458825
+"A Cook\'s Tour" 	33.5950627 -7.6187768
+"A Cook\'s Tour" 	34.0167399 -6.830995
+"A Cook\'s Tour" 	31.1728205 -7.3362482
+"A Cook\'s Tour" 	34.0556014 -5.522419960157263
+"A Cook\'s Tour" 	31.1728205 -7.3362482
+"A Cook\'s Tour" 	11.568271 104.9224426
+"A Cook\'s Tour" 	13.5066394 104.869423
+"A Cook\'s Tour" 	11.56958395 104.92108141548141
+"A Cook\'s Tour" 	13.41249965 103.86656937305514
+"A Cook\'s Tour" 	13.5066394 104.869423
+"A Dalmatians Point of View" 	40.7127281 -74.0060152
+"A Dalmatians Point of View" 	52.2337172 21.07141112883227
+"A Guy and a Girl" 	44.648618 -63.5859487
+"A J�ia de �frica" 	38.7077507 -9.1365919
+"A J�ia de �frica" 	-25.966213 32.56745
+"A Place in France" 	43.2279101 1.9751799
+"A escena" 	19.4326296 -99.1331785
+"A las tr3s" 	19.4326296 -99.1331785
+"AFL Sunday" 	-37.812498 144.9858851
+"AFP: American Fighter Pilot" 	30.06911715 -85.57727553121528
+"AM Arizona" 	34.5399962 -112.4687616
+"AOL Sessions" 	34.0536909 -118.2427666
+"AOL Sessions" 	25.7742658 -80.1936589
+"AOL Sessions" 	40.7127281 -74.0060152
+"Ace Lightning" 	43.653963 -79.387207
+"Adoption" 	39.7837304 -100.4458825
+"Adventure Inc." 	51.4538022 -2.5972985
+"Adventure Inc." 	46.603354 1.8883335
+"Adventure Inc." 	43.653963 -79.387207
+"Adventure Inc." 	51.4469581 -2.6160966
+"Adventure Inc." 	51.65536415 -2.1865569117328345
+"Adventure Inc." 	46.603354 1.8883335
+"Agua y aceite" 	19.4326296 -99.1331785
+"Ah yasamak var ya!" 	41.0766019 29.052495
+"Aix m�lodie" 	46.603354 1.8883335
+"Akvariumas" 	54.6870458 25.2829111
+"Al rojo vivo con Mar�a Celeste" 	25.7742658 -80.1936589
+"Al rojo vivo con Mar�a Celeste" 	25.7742658 -80.1936589
+"Al rojo vivo con Mar�a Celeste" 	40.8401984 -73.9402214
+"Al rojo vivo con Mar�a Celeste" 	25.7742658 -80.1936589
+"Al rojo vivo con Mar�a Celeste" 	40.7127281 -74.0060152
+"Alex Santan	48.9759637 2.1998877
+"Alicia!" 	52.5170365 13.3888599
+"Aliens Among Us" 	-24.7761086 134.755
+"Aliens Among Us" 	54.7023545 -3.2765753
+"Aliens Among Us" 	61.0666922 -107.9917071
+"Aliens Among Us" 	55.9533456 -3.1883749
+"Aliens Among Us" 	51.5073219 -0.1276474
+"Aliens Among Us" 	61.0666922 -107.9917071
+"Aliens Among Us" 	39.7837304 -100.4458825
+"Aliens Among Us" 	-33.8536692 151.2133527
+"Aliens Among Us" 	43.653963 -79.387207
+"Alive & Well with Michelle Harris" 	36.7014631 -118.7559974
+"Alive & Well with Michelle Harris" 	34.0536909 -118.2427666
+"Alive & Well with Michelle Harris" 	25.7742658 -80.1936589
+"Alive & Well with Michelle Harris" 	33.6170092 -117.9294401
+"Alive & Well with Michelle Harris" 	13.8250489 -60.975036
+"All About Me" 	51.50763415 -0.023868678300713514
+"All the Russias" 	59.9606739 30.1586551
+"Almac�n de campo" 	-34.9964963 -64.9672817
+"Almac�n de campo" 	-34.9964963 -64.9672817
+"Almac�n de campo" 	-34.9964963 -64.9672817
+"Almac�n de campo" 	-34.9964963 -64.9672817
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	46.500283 -66.750183
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	46.500283 -66.750183
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	46.500283 -66.750183
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	61.0666922 -107.9917071
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	55.001251 -125.002441
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	50.000678 -86.000977
+"Amateur Canada" 	55.001251 -115.002136
+"Amateur Canada" 	55.001251 -115.002136
+"America\'s Walking" 	42.3602534 -71.0582912
+"America\'s Walking" 	36.307854750000004 -112.29289603702432
+"America\'s Walking" 	40.7127281 -74.0060152
+"America\'s Walking" 	40.7127281 -74.0060152
+"America\'s Walking" 	38.5815719 -121.4943996
+"America\'s Walking" 	37.7790262 -122.4199061
+"America\'s Walking" 	42.9956397 -71.4547891
+"America\'s Walking" 	39.7837304 -100.4458825
+"America\'s Walking" 	42.2625932 -71.8022934
+"America\'s Walking" 	39.7837304 -100.4458825
+"America\'s Walking" 	37.8044557 -122.2713563
+"America\'s Walking" 	37.7790262 -122.4199061
+"America\'s Walking" 	39.7837304 -100.4458825
+"America\'s Walking" 	40.6501038 -73.9495823
+"America\'s Walking" 	38.6607366 -121.503289
+"America\'s Walking" 	29.42327155 -98.49179042933488
+"America\'s Walking" 	39.7837304 -100.4458825
+"America\'s Walking" 	39.7837304 -100.4458825
+"America\'s Walking" 	33.7494951 -117.8732213
+"America\'s Walking" 	38.8147596 -77.09024765272724
+"America\'s Walking" 	38.8948932 -77.0365529
+"America\'s Walking" 	38.8948932 -77.0365529
+"America\'s Walking" 	43.9792797 -120.737257
+"America\'s Walking" 	32.7762719 -96.7968559
+"America\'s Walking" 	32.7762719 -96.7968559
+"America\'s Walking" 	44.4308975 -89.6884637
+"America\'s Walking" 	38.5815719 -121.4943996
+"America\'s Walking" 	38.545379 -121.7445835
+"America\'s Walking" 	42.3750997 -71.1056157
+"America\'s Walking" 	42.3531916 -71.0972447
+"America\'s Walking" 	42.3750997 -71.1056157
+"America\'s Walking" 	35.0457219 -85.3094883
+"America\'s Walking" 	35.0457219 -85.3094883
+"America\'s Walking" 	41.7809588 -71.4371257
+"America\'s Walking" 	41.8239891 -71.4128343
+"America\'s Walking" 	44.35617135 -68.2155105970896
+"America\'s Walking" 	34.395342 -111.7632755
+"America\'s Walking" 	40.0639616 -80.7209149
+"America\'s Walking" 	40.7827725 -73.9653627406542
+"America\'s Walking" 	40.77364275 -73.96086187105126
+"America\'s Walking" 	44.386456499999994 -68.21185708110028
+"America\'s Walking" 	39.7837304 -100.4458825
+"America\'s Walking" 	25.7742658 -80.1936589
+"American Dreams" 	34.0536909 -118.2427666
+"American Dreams" 	34.093214 -118.3196124
+"American Dreams" 	34.0536909 -118.2427666
+"American Dreams" 	34.1412926 -118.3584364
+"American Dreams" 	49.2608724 -123.1139529
+"American Dreams" 	34.0536909 -118.2427666
+"American Dreams" 	39.7837304 -100.4458825
+"American Dreams" 	34.1476452 -118.1444779
+"American Family" 	34.0239015 -118.1720157
+"American Family" 	34.0536909 -118.2427666
+"American Family" 	32.6248622 -115.448325
+"American Family" 	18.75 -99.0
+"American Idol: The Search for a Superstar" 	35.6009498 -82.5540161
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	33.7490987 -84.3901849
+"American Idol: The Search for a Superstar" 	30.2711286 -97.7436995
+"American Idol: The Search for a Superstar" 	33.5206824 -86.8024326
+"American Idol: The Search for a Superstar" 	42.3602534 -71.0582912
+"American Idol: The Search for a Superstar" 	29.9594334 -90.0649002
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	32.7876012 -79.9402728
+"American Idol: The Search for a Superstar" 	41.8755616 -87.6244212
+"American Idol: The Search for a Superstar" 	41.5051613 -81.6934446
+"American Idol: The Search for a Superstar" 	41.5051613 -81.6934446
+"American Idol: The Search for a Superstar" 	32.7762719 -96.7968559
+"American Idol: The Search for a Superstar" 	42.3315509 -83.0466403
+"American Idol: The Search for a Superstar" 	40.833989 -74.0970865
+"American Idol: The Search for a Superstar" 	40.8871438 -74.0410865
+"American Idol: The Search for a Superstar" 	34.093214 -118.3196124
+"American Idol: The Search for a Superstar" 	21.48349555 -158.03640389298
+"American Idol: The Search for a Superstar" 	29.7589382 -95.3676974
+"American Idol: The Search for a Superstar" 	30.3321838 -81.655651
+"American Idol: The Search for a Superstar" 	38.6268039 -90.1994097
+"American Idol: The Search for a Superstar" 	39.100105 -94.5781416
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	36.1672559 -115.1485163
+"American Idol: The Search for a Superstar" 	35.1490215 -90.0516285
+"American Idol: The Search for a Superstar" 	25.7742658 -80.1936589
+"American Idol: The Search for a Superstar" 	44.9772995 -93.2654692
+"American Idol: The Search for a Superstar" 	44.9772995 -93.2654692
+"American Idol: The Search for a Superstar" 	29.9499323 -90.0701156
+"American Idol: The Search for a Superstar" 	40.7127281 -74.0060152
+"American Idol: The Search for a Superstar" 	41.2587459 -95.9383758
+"American Idol: The Search for a Superstar" 	28.5421109 -81.3790304
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	34.1476452 -118.1444779
+"American Idol: The Search for a Superstar" 	33.4484367 -112.0741417
+"American Idol: The Search for a Superstar" 	40.7596198 -111.8867975
+"American Idol: The Search for a Superstar" 	29.4246002 -98.4951405
+"American Idol: The Search for a Superstar" 	32.7174209 -117.1627714
+"American Idol: The Search for a Superstar" 	37.7790262 -122.4199061
+"American Idol: The Search for a Superstar" 	18.465299 -66.116666
+"American Idol: The Search for a Superstar" 	32.0809263 -81.0911768
+"American Idol: The Search for a Superstar" 	47.6038321 -122.3300624
+"American Idol: The Search for a Superstar" 	38.6268039 -90.1994097
+"American Idol: The Search for a Superstar" 	38.8948932 -77.0365529
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	33.4484367 -112.0741417
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	36.1622296 -86.7743531
+"American Idol: The Search for a Superstar" 	34.7464809 -92.2895948
+"American Idol: The Search for a Superstar" 	37.7790262 -122.4199061
+"American Idol: The Search for a Superstar" 	37.7929705 -122.4061743
+"American Idol: The Search for a Superstar" 	39.100105 -94.5781416
+"American Idol: The Search for a Superstar" 	36.1622296 -86.7743531
+"American Idol: The Search for a Superstar" 	39.9527237 -75.1635262
+"American Idol: The Search for a Superstar" 	39.100105 -94.5781416
+"American Idol: The Search for a Superstar" 	40.7127281 -74.0060152
+"American Idol: The Search for a Superstar" 	40.8466508 -73.8785937
+"American Idol: The Search for a Superstar" 	40.8466508 -73.8785937
+"American Idol: The Search for a Superstar" 	32.7762719 -96.7968559
+"American Idol: The Search for a Superstar" 	30.3321838 -81.655651
+"American Idol: The Search for a Superstar" 	39.9527237 -75.1635262
+"American Idol: The Search for a Superstar" 	33.4484367 -112.0741417
+"American Idol: The Search for a Superstar" 	37.7790262 -122.4199061
+"American Idol: The Search for a Superstar" 	39.100105 -94.5781416
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0445026 -118.26707163660464
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	34.0536909 -118.2427666
+"American Idol: The Search for a Superstar" 	36.1622296 -86.7743531
+"American Idol: The Search for a Superstar" 	29.9499323 -90.0701156
+"American Idol: The Search for a Superstar" 	36.0631271 -87.1359169
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Idol: The Search for a Superstar" 	34.0445026 -118.26707163660464
+"American Idol: The Search for a Superstar" 	39.7837304 -100.4458825
+"American Morning" 	40.7127281 -74.0060152
+"American Morning" 	25.3336984 51.2295295
+"American Morning" 	29.2733964 47.4979476
+"Amy\'s Choice" 	22.2793278 114.1628131
+"Ana y los 7" 	40.2877169 -4.014299
+"Andaluc�a M�gica" 	39.3262345 -4.8380649
+"Andy Richter Controls the Universe" 	34.0536909 -118.2427666
+"Animal Cops: Detroit" 	42.3315509 -83.0466403
+"Ant & Dec\'s Saturday Night Takeaway" 	51.5073219 -0.1276474

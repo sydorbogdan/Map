@@ -1,0 +1,217 @@
+"01-For London" 	51.5073219 -0.1276474
+"13 x 13" 	41.3745513 2.1672449
+"21 Jump Street" 	49.205728 -122.9108651
+"21 Jump Street" 	49.2308288 -123.1311342
+"21 Jump Street" 	49.2608724 -123.1139529
+"21 Jump Street" 	49.23726035 -123.15233291029864
+"21 Jump Street" 	49.2608724 -123.1139529
+"21 Jump Street" 	49.2608724 -123.1139529
+"21 Jump Street" 	48.4234135 -123.4939645
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Bit of Fry and Laurie" 	52.7954791 -0.5402402866174321
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1816482 -118.3258554
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Different World" 	34.1412926 -118.3584364
+"A Dorothy L. Sayers Mystery" 	50.7968346 -2.4146294055470126
+"A Dorothy L. Sayers Mystery" 	50.6790033 -3.237657
+"A Dorothy L. Sayers Mystery" 	51.833333 -1.25
+"A Likely Story" 	42.3602534 -71.0582912
+"A Weekend in... Marbella die Sch�nen und die Reichen" 	39.3262345 -4.8380649
+"A Year in the Life" 	47.8105738 -122.3774952
+"A Year in the Life" 	47.6038321 -122.3300624
+"A la misma hora" 	19.4326296 -99.1331785
+"ABZ" 	40.0332629 -7.8896263
+"Adventure" 	-34.9964963 -64.9672817
+"Adventure" 	65.0000004 -118.0
+"Adventure" 	1.4419683 38.4313975
+"Adventure" 	-16.0492781 -160.3554851
+"Adventure" 	-18.1239696 179.0122737
+"Adventure" 	-18.9249604 46.4416422
+"Adventure" 	64.6863136 97.7453061
+"After Dark" 	51.5073219 -0.1276474
+"Airwolf" 	49.2608724 -123.1139529
+"Albert Schweitzer" 	-0.695844 10.2215963
+"Amel�n y Picol�n" 	18.4801972 -69.942111
+"Amerika" 	34.7464809 -92.2895948
+"Amerika" 	43.963909 -78.169098
+"Amerika" 	43.255205 -79.868202
+"Amerika" 	40.8088861 -96.7077751
+"Amerika" 	42.9836747 -81.2496068
+"Amerika" 	40.8695533 -97.1706676
+"Amerika" 	40.3674048 -96.1949949
+"Amerika" 	43.653963 -79.387207
+"Amor en silencio" 	19.4326296 -99.1331785
+"Amo	41.467969 2.0782386
+"Anne of Green Gables: The Sequel" 	46.4146956 -63.073323986454184
+"Anne of Green Gables: The Sequel" 	43.2694696 -79.884192
+"Anne of Green Gables: The Sequel" 	43.255205 -79.868202
+"Anne of Green Gables: The Sequel" 	43.951058 -78.292007
+"Anne of Green Gables: The Sequel" 	46.4845619 -63.38246484923853
+"Anne of Green Gables: The Sequel" 	46.3355508 -63.1466676

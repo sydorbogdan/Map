@@ -1,0 +1,267 @@
+"12 stede	52.0799838 4.3113461
+"12 stede	52.30444305 5.0585343520066335
+"12 stede	52.711744350000004 6.197307325163717
+"12 stede	52.0651958 5.2897704
+"12 stede	52.0643053 6.470324101825035
+"12 stede	52.44160995 5.1207325522897165
+"12 stede	52.350947700000006 5.072250746425341
+"12 stede	51.90681925 5.491233190891506
+"12 stede	52.6780162 4.851688593963786
+"12 stede	52.1343369 4.6561357
+"12 stede	51.9227863 4.329563378870851
+"12 stede	52.558830549999996 4.639675526200153
+"12 stede	53.2005936 5.7918548
+"12 stede	50.8512438 5.6909768
+"12 stede	52.6702278 4.7011616
+"12 stede	52.18548715 5.224827909907685
+"12 stede	52.999464450000005 7.1404588700937754
+"12 stede	51.6527898 4.171103196352971
+"12 stede	52.32095295 4.598558896834166
+"12 stede	52.1833669 4.472129402976295
+"120 Minutes" 	51.5073219 -0.1276474
+"360: Todo para ver" 	-34.9964963 -64.9672817
+"360: Todo para ver" 	-34.9964963 -64.9672817
+"360: Todo para ver" 	-34.9964963 -64.9672817
+"8:15 from Manchester" 	53.861171549999995 -2.547111540310474
+"A Taste of Louisiana with Chef John Folse & Co." 	30.228313 -92.666391
+"A Taste of Louisiana with Chef John Folse & Co." 	39.7837304 -100.4458825
+"A Taste of Louisiana with Chef John Folse & Co." 	30.2265949 -93.2173759
+"A Taste of Louisiana with Chef John Folse & Co." 	30.1252011 -91.8334498
+"A Taste of Louisiana with Chef John Folse & Co." 	30.7265747 -90.5089815
+"A Taste of Louisiana with Chef John Folse & Co." 	32.2901506 -92.0890239
+"A Taste of Louisiana with Chef John Folse & Co." 	32.5221828 -93.7651944
+"A Taste of Louisiana with Chef John Folse & Co." 	30.7807244 -91.3763353
+"A Taste of Louisiana with Chef John Folse & Co." 	29.8149585 -90.47350127114603
+"A Taste of Louisiana with Chef John Folse & Co." 	29.9499323 -90.0701156
+"A Taste of Louisiana with Chef John Folse & Co." 	30.4113095 -92.0684539
+"A Taste of Louisiana with Chef John Folse & Co." 	31.0579664 -92.049012
+"A Taste of Louisiana with Chef John Folse & Co." 	31.090658 -92.03844
+"A Taste of Louisiana with Chef John Folse & Co." 	30.283746 -91.8963757012574
+"A Taste of Louisiana with Chef John Folse & Co." 	29.9595056 -90.0655668
+"A Taste of Louisiana with Chef John Folse & Co." 	30.0260404 -92.5084692
+"A Taste of Louisiana with Chef John Folse & Co." 	30.2240897 -92.0198427
+"A Taste of Louisiana with Chef John Folse & Co." 	30.2240897 -92.0198427
+"A Taste of Louisiana with Chef John Folse & Co." 	30.234925 -92.2684617
+"A Taste of Louisiana with Chef John Folse & Co." 	29.9296175 -90.1649645687793
+"A Taste of Louisiana with Chef John Folse & Co." 	39.7837304 -100.4458825
+"A Taste of Louisiana with Chef John Folse & Co." 	31.3034239 -92.48293036369076
+"A Taste of Louisiana with Chef John Folse & Co." 	30.1010324 -90.9928774
+"A Taste of Louisiana with Chef John Folse & Co." 	32.4907004 -92.1134678
+"A Taste of Louisiana with Chef John Folse & Co." 	29.9499323 -90.0701156
+"A Taste of Louisiana with Chef John Folse & Co." 	29.8217562 -89.6008692
+"A Taste of Louisiana with Chef John Folse & Co." 	31.0149128 -92.2873521
+"A Taste of Louisiana with Chef John Folse & Co." 	29.9404803 -91.0248214
+"A Taste of Louisiana with Chef John Folse & Co." 	30.4459596 -91.18738
+"A Taste of Louisiana with Chef John Folse & Co." 	39.7837304 -100.4458825
+"A Taste of Louisiana with Chef John Folse & Co." 	30.8337523 -90.0721467
+"A Taste of Louisiana with Chef John Folse & Co." 	39.7837304 -100.4458825
+"A Taste of Louisiana with Chef John Folse & Co." 	30.1847827 -91.16707425413784
+"A Taste of Louisiana with Chef John Folse & Co." 	30.0110358 -90.7195356
+"A Taste of Louisiana with Chef John Folse & Co." 	32.5232053 -92.637927
+"A Taste of Louisiana with Chef John Folse & Co." 	31.5194077 -92.7068037
+"A Taste of Louisiana with Chef John Folse & Co." 	30.1252011 -91.8334498
+"A Taste of Louisiana with Chef John Folse & Co." 	32.8609625 -91.3884483
+"A Taste of Louisiana with Chef John Folse & Co." 	30.4521351 -91.2101081
+"A Taste of Louisiana with Chef John Folse & Co." 	29.9427892 -89.9629372
+"A Taste of Louisiana with Chef John Folse & Co." 	30.2140928 -92.3745761
+"A Taste of Louisiana with Chef John Folse & Co." 	30.075840499999998 -90.6316030460708
+"A Taste of Louisiana with Chef John Folse & Co." 	30.0035365 -91.8187285
+"A Taste of Louisiana with Chef John Folse & Co." 	29.6993748 -91.20677
+"A Taste of Louisiana with Chef John Folse & Co." 	30.4388041 -90.4414762
+"A Taste of Louisiana with Chef John Folse & Co." 	30.0035365 -91.8187285
+"A Taste of Louisiana with Chef John Folse & Co." 	30.1010324 -90.9928774
+"A Taste of Louisiana with Chef John Folse & Co." 	30.7807244 -91.3763353
+"A Taste of Louisiana with Chef John Folse & Co." 	30.8471283 -90.153141
+"A Taste of Louisiana with Chef John Folse & Co." 	30.4043607 -90.1570232
+"A Taste of Louisiana with Chef John Folse & Co." 	30.5335302 -92.081509
+"A la cama con Moria" 	-34.9964963 -64.9672817
+"A la cama con Porcel" 	-34.9964963 -64.9672817
+"A quien corresponda" 	19.4326296 -99.1331785
+"AMA U.S. Motocross Nationals" 	42.096968 -75.914341
+"AMA U.S. Motocross Nationals" 	29.6519684 -82.3249846
+"AMA U.S. Motocross Nationals" 	38.5815719 -121.4943996
+"AMA U.S. Motocross Nationals" 	45.5819594 -122.3479921
+"AMA United States Motocross Nationals" 	42.096968 -75.914341
+"AMA United States Motocross Nationals" 	29.6519684 -82.3249846
+"AMA United States Motocross Nationals" 	38.5815719 -121.4943996
+"AMA United States Motocross Nationals" 	45.5819594 -122.3479921
+"Against the Law" 	42.3602534 -71.0582912
+"Against the Law" 	42.3602534 -71.0582912
+"Aix� �s la vida" 	41.3828939 2.1774322
+"Albert Einstein" 	52.5170365 13.3888599
+"Albert Einstein" 	52.8455492 13.2461296
+"Albert Einstein" 	52.4009309 13.0591397
+"Albert Einstein" 	52.4009309 13.0591397
+"Alfa Papa Tango" 	50.8436709 4.3674366933879565
+"Alleyn Mysteries" 	50.6642063 -4.7526181
+"Alleyn Mysteries" 	50.416667 -4.75
+"American Chronicles" 	29.4246002 -98.4951405
+"American Dreamer" 	34.0536909 -118.2427666
+"American Dreamer" 	34.0536909 -118.2427666
+"American Dreamer" 	34.0536909 -118.2427666
+"American Dreamer" 	34.0536909 -118.2427666
+"American Dreamer" 	34.0536909 -118.2427666
+"American Dreamer" 	34.0536909 -118.2427666
+"Amor de nadie" 	19.4326296 -99.1331785
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Am�ndote II" 	-34.9964963 -64.9672817
+"Angyalb�rben" 	47.48138955 19.14607278448202
+"Angyalb�rben" 	47.1817585 19.5060937
+"Angyalb�rben" 	47.1817585 19.5060937
+"Angyalb�rben" 	47.1817585 19.5060937
+"Angyalb�rben" 	47.1817585 19.5060937
+"Angyalb�rben" 	47.2519697 18.8983773
+"Angyalb�rben" 	47.8077185 19.0072798
+"Angyalb�rben" 	47.1817585 19.5060937
+"Angyalb�rben" 	47.1817585 19.5060937
+"Angyalb�rben" 	47.5099444 18.929382
+"Answers with Bayless Conley" 	33.8038865 -118.0772433

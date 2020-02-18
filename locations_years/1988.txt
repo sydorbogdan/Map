@@ -1,0 +1,241 @@
+"1988 Presidential Debates" 	36.0998131 -80.2440518
+"1988 Presidential Debates" 	34.0536909 -118.2427666
+"48 Hours" 	40.7658781 -73.9808768
+"48 Hours" 	35.8940236 -80.5617846
+"48 Hours" 	-21.1442277 -175.196744
+"48 Hours" 	-21.1343401 -175.2018085
+"48 Hours" 	-19.9160819 -175.2026424
+"48 Hours" 	33.3500656 -84.7545734
+"48 Hours" 	47.4234599 -120.3103494
+"48 Hours" 	21.2160437 -157.975203
+"48 Hours" 	47.6038321 -122.3300624
+"48 Hours" 	31.4623902 -97.1958377
+"48 Hours" 	31.5487691 -97.2189254
+"48 Hours" 	31.549333 -97.1466695
+"48 Hours" 	29.4246002 -98.4951405
+"48 Hours" 	33.4484367 -112.0741417
+"7T3" 	51.2474823 0.7105077
+"9B" 	43.653963 -79.387207
+"9x9 Roberto" 	18.4801972 -69.942111
+"A Conversation with..." 	28.5421109 -81.3790304
+"A Conversation with..." 	28.38034955 -81.5297578369267
+"A Dangerous Life" 	7.5554942 80.7137847
+"A Dangerous Life" 	-24.7761086 134.755
+"A Dangerous Life" 	12.7503486 122.7312101
+"A Mala de Cart�o" 	38.7077507 -9.1365919
+"A Taste for Death" 	51.5073219 -0.1276474
+"A v�delem� a sz�" 	47.48138955 19.14607278448202
+"Aaron\'s Way" 	34.5958572 -120.1390894
+"Abenteuer Forschung" 	51.0834196 10.4234469
+"Adrienne Clarkson\'s Summer Festival" 	43.653963 -79.387207
+"Agate" 	35.7006177 51.4013785
+"Agate" 	34.0956347 49.6913344
+"Al sur del mundo" 	-31.7613365 -71.3187697
+"Allis vivere" 	19.4326296 -99.1331785
+"Almost Grown" 	34.1412926 -118.3584364
+"Almost There!" 	33.8644291 -118.0539323
+"Almost There!" 	33.7690164 -118.1916048
+"Almost There!" 	34.3155072 -118.2096814
+"Almost There!" 	34.0250724 -118.4965129
+"Amar y vivir" 	2.8894434 -73.783892
+"America\'s Most Wanted" 	32.2228765 -110.9748477
+"America\'s Most Wanted" 	39.1911128 -106.8235606
+"America\'s Most Wanted" 	41.8755616 -87.6244212
+"America\'s Most Wanted" 	39.7348381 -104.9653271
+"America\'s Most Wanted" 	29.7589382 -95.3676974
+"America\'s Most Wanted" 	30.3321838 -81.655651
+"America\'s Most Wanted" 	36.1672559 -115.1485163
+"America\'s Most Wanted" 	34.7464809 -92.2895948
+"America\'s Most Wanted" 	34.0536909 -118.2427666
+"America\'s Most Wanted" 	25.7742658 -80.1936589
+"America\'s Most Wanted" 	44.9772995 -93.2654692
+"America\'s Most Wanted" 	38.8948932 -77.0365529
+"America\'s Most Wanted" 	40.7127281 -74.0060152
+"America\'s Most Wanted" 	35.4729886 -97.5170536
+"America\'s Most Wanted" 	39.9527237 -75.1635262
+"America\'s Most Wanted" 	33.4484367 -112.0741417
+"America\'s Most Wanted" 	47.6038321 -122.3300624
+"America\'s Most Wanted" 	43.653963 -79.387207
+"America\'s Most Wanted" 	38.8948932 -77.0365529
+"America\'s Most Wanted" 	26.7153425 -80.0533746
+"America\'s Most Wanted" 	38.8966361 -77.0216873
+"America\'s Most Wanted" 	38.8966361 -77.0216873
+"America\'s Most Wanted" 	38.8966361 -77.0216873
+"America\'s Most Wanted" 	38.8966361 -77.0216873
+"America\'s Most Wanted" 	38.8966361 -77.0216873
+"America\'s Most Wanted" 	36.7014631 -118.7559974
+"America\'s Most Wanted" 	37.7790262 -122.4199061
+"America\'s Most Wanted" 	39.7348381 -104.9653271
+"America\'s Most Wanted" 	38.5017085 -122.9959133
+"America\'s Most Wanted" 	39.1370984 -76.8249361
+"America\'s Most Wanted" 	39.7837304 -100.4458825
+"America\'s Most Wanted" 	39.1911128 -106.8235606
+"America\'s Most Wanted" 	39.284749399999995 -76.62047463969989
+"America\'s Most Wanted" 	39.9527237 -75.1635262
+"America\'s Most Wanted" 	37.6090291 -121.899142
+"America\'s Most Wanted" 	48.23251 -101.296273
+"American Experience" 	42.351824 -71.0709646
+"American Experience" 	42.4605189 -71.3488963
+"American Experience" 	42.4473175 -71.2245003
+"American Experience" 	18.4268923 -69.4162105
+"American Experience" 	21.30683655 -157.8587459552695
+"American Experience" 	21.3053226 -157.86013860115054
+"American Experience" 	39.7837304 -100.4458825
+"American Experience" 	21.48349555 -158.03640389298
+"American Experience" 	21.30872165 -157.85672886263475
+"American Experience" 	42.3602534 -71.0582912
+"American Experience" 	42.2064195 -71.005067
+"American Experience" 	38.8913369 -77.02597980275456
+"American Experience" 	40.7127281 -74.0060152
+"American Experience" 	40.4416941 -79.9900861
+"American Experience" 	18.465299 -66.116666
+"American Experience" 	34.5521113 -77.926098
+"American Experience" 	34.2257282 -77.9447107
+"American Experience" 	40.7319802 -73.9965658
+"American Experience" 	40.7341288 -73.9993539
+"American Experience" 	40.7827725 -73.9653627406542
+"American Experience" 	45.2208205 -102.730996
+"American Experience" 	40.9917649 -72.8328789
+"American Experience" 	45.709097 -68.8590201
+"American Experience" 	21.9284329 -80.2458539
+"American Experience" 	39.6159851 -75.662956
+"American Experience" 	39.6159851 -75.662956
+"American Experience" 	39.6159851 -75.662956
+"American Experience" 	40.08067 -76.2411283
+"American Experience" 	41.654263 -85.7102841
+"American Experience" 	40.4181235 -79.625599
+"American Experience" 	40.3267407 -78.9219698
+"American Experience" 	40.4416941 -79.9900861
+"American Experience" 	40.50312 -81.6409582
+"American Experience" 	40.7957622 -80.1370795
+"American Experience" 	21.48349555 -158.03640389298
+"American Experience" 	41.4036007 -95.0138776
+"American Experience" 	42.8127501 -94.5269204
+"American Experience" 	41.4002662 -94.8869283
+"American Experience" 	39.7837304 -100.4458825
+"American Experience" 	32.3293809 -83.1137366
+"American Experience" 	40.3270127 -86.1746933
+"American Experience" 	39.7837304 -100.4458825
+"American Experience" 	36.902958 -106.5780094
+"American Experience" 	33.7490987 -84.3901849
+"American Experience" 	32.2228765 -110.9748477
+"American Experience" 	31.4481481 -109.9284025
+"American Experience" 	39.7837304 -100.4458825
+"American Experience" 	31.4278776 -109.8936853
+"American Experience" 	31.4133669 -109.8774735
+"American Health Journal" 	39.7837304 -100.4458825
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Am�ndote" 	-34.9964963 -64.9672817
+"Anabel" 	19.4326296 -99.1331785
+"Another Page" 	38.0464066 -84.4970393

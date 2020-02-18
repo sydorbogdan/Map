@@ -1,0 +1,5 @@
+"20 Questions" 	40.7127281 -74.0060152
+"ABC 7 San Francisco" 	37.7790262 -122.4199061
+"ABC Barn Dance" 	41.8755616 -87.6244212
+"ABC Television Players" 	41.8755616 -87.6244212
+"Al Morgan" 	41.8755616 -87.6244212
