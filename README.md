@@ -29,6 +29,5 @@ Example:
 	Year:2000
 	latitude:34
 	longitude:34
-
-![sreenshot](/home/bogdan/Pictures/Screenshot from 2020-02-18 22-36-01.png)
-
+	
+	result:https://drive.google.com/open?id=1z70G6e2dRGD1ugoOIPEA33SIQpiA_Z_j
