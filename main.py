@@ -9,7 +9,7 @@ def read_data():
     '''
     () -> tuple(int,tuple(float,float))
     get data from user
-    '''a
+    '''
     try:
         year = int(input('Year:'))
         latitude = float(input('latitude:'))
