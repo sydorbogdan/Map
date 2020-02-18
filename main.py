@@ -9,7 +9,7 @@ def read_data():
     '''
     () -> tuple(int,tuple(float,float))
     get data from user
-    '''
+    '''a
     try:
         year = int(input('Year:'))
         latitude = float(input('latitude:'))
@@ -51,7 +51,9 @@ def write_data(data):
     losed = 0
     checked = 0
     for i in data:
-        title_f = '/home/bogdan/Documents/1yr_2sm_lab/lab_2/lab_2_t2/locations_years/' + \
+        p1 = '/home/bogdan/Documents/1yr_2sm_lab/lab_2/'
+        p2 = 'lab_2_t2/locations_years/'
+        title_f = p1 + p2 + \
             str(i[1]) + '.txt'
         file = open(str(title_f), 'a')
         for j in data[i]:
@@ -124,7 +126,8 @@ def get_map(year, latitude, longitude):
     map_ = folium.Map()
     map_.add_child(folium.Marker(
         location=[latitude, longitude], popup="Ви тут!"))
-    file = open('/home/bogdan/Documents/1yr_2sm_lab/lab_2/lab_2_t2/locations_years/' +
+    p1 = '/home/bogdan/Documents/1yr_2sm_lab/lab_2/'
+    file = open(p1 + 'lab_2_t2/locations_years/' +
                 str(year) + '.txt')
     markers = find_nearest(year, (latitude, longitude))
     shift = 0
@@ -145,7 +148,8 @@ def find_nearest(year, curent_cord):
     return list of nearest cordinates
     '''
     rez = []
-    title = '/home/bogdan/Documents/1yr_2sm_lab/lab_2/lab_2_t2/locations_years/' + \
+    p1 = '/home/bogdan/Documents/1yr_2sm_lab/lab_2/'
+    title = p1 + 'lab_2_t2/locations_years/' + \
         str(year) + '.txt'
     file = open(title)
     for line in file:
