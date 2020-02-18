@@ -13,7 +13,8 @@ Usage:
 
 Information:
 
-	This program return HTML file, blue markers – nearest locations where the 	films were made, green markers – capitals of South America countries.
+	This program return HTML file, blue markers – nearest locations where the 
+	films were made, green markers – capitals of South America countries.
 	
 HTML:
 
